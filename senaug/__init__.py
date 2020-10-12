@@ -5,3 +5,4 @@
 """
 
 from senaug.simple import jitter, scale  # noqa
+from senaug.warp import warp_random_curves  # noqa
